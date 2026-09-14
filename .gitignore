@@ -1,0 +1,13 @@
+# 数据目录（原始数据不入库）
+data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 环境与密钥
+.env
+*.log
+
+# 采集缓存
+*.jsonl

@@ -1,0 +1,13 @@
+# 核心数据分析
+pandas
+numpy
+matplotlib
+
+# 可视化看板
+streamlit
+
+# 网络请求（采集模块）
+requests
+
+# LLM 结构化抽取（信息抽取模块）
+openai
